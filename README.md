@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# React Redux Ecommerce UI Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was build using React, Redux, Semantic UI, API for products were from [Fakestoreapi](https://fakestoreapi.com/) and Netlify for Deployment. This was my first ever Project which I deployed your support will mean alot to keep me creating more projects and keep exploring. Thank You ❤
 
-## Available Scripts
+## Link to live website - [https://react-redux-ecommerce-ui.netlify.app/](https://react-redux-ecommerce-ui.netlify.app/
 
-In the project directory, you can run:
+## Demo
+![react-redux-ecommerce](https://user-images.githubusercontent.com/77255962/151732908-5271d2bf-9953-4fc7-ae50-f562dc2bfa6e.PNG)
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Clone and Run on your Computer
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- clone the repo
 
-### `npm test`
+```
+git clone <repo-link>
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- install dependencies & start development server
 
-### `npm run build`
+```
+npm install
+npm start
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Build and run production app
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
+npm run build
+npm install -g server
+serve -s build
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## Tech used to build this project
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<table>
+  <tr>
+    <td align="center"> <img align="center" src="https://user-images.githubusercontent.com/77255962/151733439-ce86c1e9-09bc-46e9-9630-a4b678183081.png alt="react logo" width="100" /></td>
+		<td align="center"> <img align="center" src="https://user-images.githubusercontent.com/77255962/151733527-8529ef7d-6849-4ff9-8161-2aee19f8e105.png" alt="redux logo" width="100" /></td>
+		<td align="center"> <img align="center" src="https://user-images.githubusercontent.com/77255962/151733626-169b8d64-436b-47d3-9248-26bc3029b2cc.png" alt="semantic-ui logo" width="100" /></td>
+     <td align="center"> <img align="center" src="https://user-images.githubusercontent.com/77255962/151734054-fb07259a-e4e1-40b4-a125-6ebd40de5b9e.svg" alt="semantic-ui logo" width="100" /></td>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   <tr>
+      <td align="center"><b> React </b></td>
+			<td align="center"><b> Redux </b></td>
+			<td align="center"><b> Semantic-UI </b></td>
+      <td align="center"><b> Netlify </b></td>
+  </tr>
+</table>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
