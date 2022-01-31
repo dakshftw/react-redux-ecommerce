@@ -52,3 +52,5 @@ serve -s build
 </table>
 
 ---
+
+### Star this Repository if you liked this project & check [dakshjoshi.com](https://dakshjoshi.com/)
