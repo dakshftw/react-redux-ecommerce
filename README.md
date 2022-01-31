@@ -38,7 +38,7 @@ serve -s build
 
 <table>
   <tr>
-    <td align="center"> <img align="center" src="https://user-images.githubusercontent.com/77255962/151733439-ce86c1e9-09bc-46e9-9630-a4b678183081.png alt="react logo" width="100" /></td>
+    <td align="center"> <img align="center" src="https://user-images.githubusercontent.com/77255962/151734185-51b3d373-ffb4-4e7a-826b-ae0a41070b1b.png" alt="react logo" width="100" /></td>
 		<td align="center"> <img align="center" src="https://user-images.githubusercontent.com/77255962/151733527-8529ef7d-6849-4ff9-8161-2aee19f8e105.png" alt="redux logo" width="100" /></td>
 		<td align="center"> <img align="center" src="https://user-images.githubusercontent.com/77255962/151733626-169b8d64-436b-47d3-9248-26bc3029b2cc.png" alt="semantic-ui logo" width="100" /></td>
      <td align="center"> <img align="center" src="https://user-images.githubusercontent.com/77255962/151734054-fb07259a-e4e1-40b4-a125-6ebd40de5b9e.svg" alt="semantic-ui logo" width="100" /></td>
