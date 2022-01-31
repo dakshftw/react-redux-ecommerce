@@ -2,7 +2,7 @@
 
 This project was build using React, Redux, Semantic UI, API for products were from [Fakestoreapi](https://fakestoreapi.com/) and Netlify for Deployment. This was my first ever Project which I deployed your support will mean alot to keep me creating more projects and keep exploring. Thank You ❤
 
-## Link to live website - [https://react-redux-ecommerce-ui.netlify.app/](https://react-redux-ecommerce-ui.netlify.app/
+## Link to live website - [https://react-redux-ecommerce-ui.netlify.app/](https://react-redux-ecommerce-ui.netlify.app/)
 
 ## Demo
 ![react-redux-ecommerce](https://user-images.githubusercontent.com/77255962/151732908-5271d2bf-9953-4fc7-ae50-f562dc2bfa6e.PNG)
